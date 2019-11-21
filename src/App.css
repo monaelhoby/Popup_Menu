@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  padding: 30px 15px;
+  max-width:100%
+}
+*{
+  -webkit-transition:.3s all ease-in-out;
+  -moz-transition:.3s all ease-in-out;
+  -o-transition:.3s all ease-in-out;
+  transition:.3s all ease-in-out;
+}
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding:30px 20px
+}
+
+.App-link {
+  color: #09d3ac;
+}

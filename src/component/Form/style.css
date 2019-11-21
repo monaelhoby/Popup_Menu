@@ -1,0 +1,26 @@
+
+ input {
+    height: 45px;
+    /* padding: 5px; */
+    width: 50%;
+    display:inline-block
+  }
+
+input[type="submit"] {
+    background: #8ed2df;
+    color: #fff;
+    border: 2px solid #8ed2df;
+    margin-left: 1px;
+    cursor: pointer;
+    width: 30% !important;
+   }
+
+ input[type="submit"]:hover {
+    border: 2px solid #8ed2df;
+    color: #8ed2df;
+    background: #fff;
+  }
+    input[type="text"]{
+      width:65%;
+      padding-left:5px !important
+    }
