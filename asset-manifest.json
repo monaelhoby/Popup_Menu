@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monaelhoby/popup_menu/static/css/main.efabee95.chunk.css",
+    "main.js": "/monaelhoby/popup_menu/static/js/main.692bc4e7.chunk.js",
+    "main.js.map": "/monaelhoby/popup_menu/static/js/main.692bc4e7.chunk.js.map",
+    "runtime-main.js": "/monaelhoby/popup_menu/static/js/runtime-main.0264facb.js",
+    "runtime-main.js.map": "/monaelhoby/popup_menu/static/js/runtime-main.0264facb.js.map",
+    "static/js/2.00d4c481.chunk.js": "/monaelhoby/popup_menu/static/js/2.00d4c481.chunk.js",
+    "static/js/2.00d4c481.chunk.js.map": "/monaelhoby/popup_menu/static/js/2.00d4c481.chunk.js.map",
+    "index.html": "/monaelhoby/popup_menu/index.html",
+    "precache-manifest.fdcadd92a3db4ff86a78061701215b11.js": "/monaelhoby/popup_menu/precache-manifest.fdcadd92a3db4ff86a78061701215b11.js",
+    "service-worker.js": "/monaelhoby/popup_menu/service-worker.js",
+    "static/css/main.efabee95.chunk.css.map": "/monaelhoby/popup_menu/static/css/main.efabee95.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0264facb.js",
+    "static/js/2.00d4c481.chunk.js",
+    "static/css/main.efabee95.chunk.css",
+    "static/js/main.692bc4e7.chunk.js"
+  ]
+}
